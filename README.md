@@ -4,9 +4,8 @@
 
 ## Document Information
 | Field | Value |
-|-------|-------|
-| Organization | [Company Name] |
-| ISMS Scope | [Scope Description] |
+|-------|-------
+| ISMS Scope | IAM |
 | Version | 1.0 |
 | Last Updated | [Date] |
 | Approved By | [Name/Role] |
