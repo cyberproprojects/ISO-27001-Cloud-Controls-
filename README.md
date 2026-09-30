@@ -1,15 +1,15 @@
 # ISO-27001-Cloud-Controls-
 
-# ISO 27001:2022 Statement of Applicability
+# ISO 27001: Statement of Applicability
 
 ## Document Information
 | Field | Value |
 |-------|-------
 | ISMS Scope | IAM |
 | Version | 1.0 |
-| Last Updated | [Date] |
-| Approved By | [Name/Role] |
-| Next Review | [Date] |
+| Last Updated |  |
+| Approved By | T. Thurman |
+| Next Review | 01/03/2027|
 
 ---
 
