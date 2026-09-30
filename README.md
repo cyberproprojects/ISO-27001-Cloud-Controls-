@@ -1,11 +1,11 @@
 # ISO-27001-Cloud-Controls-
 
-# ISO 27001: Statement of Applicability
+# ISO 27001: AWS Statement of Applicability
 
 ## Document Information
 | Field | Value |
 |-------|-------
-| ISMS Scope | IAM |
+| ISMS Scope | AWS IAM |
 | Version | 1.0 |
 | Last Updated |  |
 | Approved By | T. Thurman |
