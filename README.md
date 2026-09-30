@@ -1,4 +1,4 @@
-# ISO-27001-Cloud-Controls-
+# ISO-27001-Cloud-Controls
 
 # ISO 27001: AWS Statement of Applicability
 
